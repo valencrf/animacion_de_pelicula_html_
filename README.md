@@ -3,6 +3,8 @@
 ---
 ## Contenido del proyecto
 **index.html**: Página principal.
+
+---
 **style.css**: Hoja de estilos.
 
 ---
