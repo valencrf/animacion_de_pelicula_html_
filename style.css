@@ -1,0 +1,55 @@
+h1
+{
+    color:rgb(251, 249, 229);
+    font-size:5rem
+}
+.fondo-coraline
+{
+    background-color:rgb(23, 23, 129);
+}
+.fondo-pagina
+{
+    background-color: rgb(80, 48, 160);
+}
+.letra-introductorio
+{
+    color:antiquewhite;
+}
+th
+{
+   color:antiquewhite; 
+}
+td
+{
+    color:antiquewhite;
+}
+p
+{
+color:antiquewhite; 
+}
+h3
+{
+  color:antiquewhite; 
+}
+h1, h2, h3 
+{
+    color: white;
+}
+p, ol, ul
+{
+    color: white;
+}
+table, th, td
+{
+    border: 1px solid white;
+    color: white;
+}
+form, label, input, textarea, select
+{
+    color: white;
+}
+footer
+{
+    color: white;
+}
+
